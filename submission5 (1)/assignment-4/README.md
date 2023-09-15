@@ -27,6 +27,4 @@ This project focuses on web development and project management using command-lin
 
 If you want to contribute to this project or have suggestions for improvement, feel free to fork the repository, make your changes, and submit a pull request.
 
-## License
 
-This project is licensed under [LICENSE NAME] - You can specify the license you choose for your project.
